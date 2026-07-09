@@ -24,7 +24,7 @@ To review or reproduce my analysis:
 1. Clone this repository: `git clone https://github.com/tdmuftuoglu/canadian-rivers-cq.git`
 2. Open the notebook in Google Colab or your local Jupyter environment.
 3. Ensure the required libraries are installed.
-4. Run the notebook sequentially. (The datasets will be downloaded automatically by the script).
+4. Run the notebook sequentially. (The datasets will be downloaded automatically by the script)
 
 ## Citation
 If you use the code in this repository, please cite me.
